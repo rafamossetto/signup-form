@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .input {
+    @apply border block w-full px-6 py-3 rounded-lg;
+  }
+  ,
+  .error-input {
+    @apply border-2 border-prim-red block w-full px-6 py-3 rounded-lg;
+  }
+  ,
+  .submit-btn {
+    @apply w-full bg-prim-green text-white py-3 px-2 uppercase font-semibold rounded-md;
+  }
+}
