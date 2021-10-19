@@ -6,7 +6,8 @@ A sign up form made in react and tailwindcss framework. I used Formik & Yup libr
 For test:
 
 1) clone the repo
-2) npm run build
-3) npm run serve
-4) go to http://localhost:5000/ in the browser to view the live preview
+2) npm install
+3) npm run build
+4) npm run serve
+5) go to http://localhost:5000/ in the browser to view the live preview
 
